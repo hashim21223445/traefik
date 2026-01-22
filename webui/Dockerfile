@@ -1,4 +1,4 @@
-FROM node:20.19.5
+FROM node:20.20.0
 # Current Active LTS release according to (https://nodejs.org/en/about/releases/)
 
 ENV WEBUI_DIR /src/webui
